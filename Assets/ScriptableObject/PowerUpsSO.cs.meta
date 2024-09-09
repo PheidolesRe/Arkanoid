@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cfdec4cea60e8864aaa6c484ef6c7395
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - x2PowerUp: {fileID: 11400000, guid: a55b8c02e2d88e043b6a317314addb57, type: 2}
+  - ghostPowerUp: {fileID: 11400000, guid: 9eae59abb69689e4bbc9dbe44fa17c28, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
